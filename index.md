@@ -2,6 +2,8 @@
 title: Imperialism in Cameroon
 ---
 
+# Imperialism in Camerron
+
 ![alt text](https://ichef.bbci.co.uk/news/624/cpsprodpb/145E5/production/_103692438_cameroon_640-nc-2.png)
 
 ---
