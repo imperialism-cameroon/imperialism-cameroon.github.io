@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+---
+title: Imperialism in Cameroon
+---
 
-You can use the [editor on GitHub](https://github.com/imperialism-cameroon/imperialism-cameroon.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Division of work
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A - 
 
-### Markdown
+B - 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+C - 
 
-```markdown
-Syntax highlighted code block
+D - 
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+## A - Imperialism in the 19th century
 
-1. Numbered
-2. List
+#### Examples of many different countries and colonies
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## B - The example from 19th century
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## C - The example from 21th century
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/imperialism-cameroon/imperialism-cameroon.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## D - Relating the 19th century example to one in the 21st century
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+## Bibliography
+
