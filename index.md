@@ -22,7 +22,7 @@ D - Peter
 
 #### Examples of many different countries and colonies
 
-https://en.wikipedia.org/wiki/Imperialism
+<https://en.wikipedia.org/wiki/Imperialism>
 
 Imperialism is a state government, practice, or advocacy of extending power and dominion, especially by direct territorial acquisition or by gaining political and economic control of other areas.
 
@@ -34,24 +34,23 @@ As for those days, Britain controlled a half of the world, through the British I
 
 So they became an imperialist nation. Japanese Empire fought to take over Korea, Taiwan. And then, in WWI, they gained more lands, but eventually, in WWII, they could have their dream of being a reality imperialist nation. 
 
-https://www.quora.com/Why-did-Japan-become-an-imperialist
+<https://www.quora.com/Why-did-Japan-become-an-imperialist>
 
 **China imperialism**
 
 The primary motive of British imperialism in China in the nineteenth century was economic. There was a high demand for Chinese tea, silk and porcelain in the British market.
 
-http://blogs.bu.edu/guidedhistory/moderneurope/tao-he/
+<http://blogs.bu.edu/guidedhistory/moderneurope/tao-he/>
 
 **Germany imperialism** 
 
 Germany increasingly developed into a major power. Especially the German emperor Wilhelm II , His aim was to turn Germany into an imperial power and for it to acquire colonies in Africa. 
 
-http://en.geschichte-abitur.de/industrialisation/imperialism
+<http://en.geschichte-abitur.de/industrialisation/imperialism>
 
 **French imperialism**
 
 It refers to France, which entered the stage of imperialism. It happened mainly during the second industrial revolution.
-
 
 ## B - The example from 19th century
 
@@ -81,4 +80,4 @@ The reluctance of the indigenous people to work on these projects , because The 
 
 ## Bibliography
 
-The source form the https://en.wikipedia.org/wiki/History_of_Cameroon and https://www.history.com is very good website to learn the  Imperialism .
+The source form the <https://en.wikipedia.org/wiki/History_of_Cameroon> and <https://www.history.com> is very good website to learn the  Imperialism.
