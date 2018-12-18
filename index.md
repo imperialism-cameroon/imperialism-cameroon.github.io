@@ -76,7 +76,7 @@ The reluctance of the indigenous people to work on these projects , because The 
 
 ## D - Relating the 19th century example to one in the 21st century
 
-1.19th century the situation of life under colonialism, is not very good, Because the Germans instigated a harsh and unpopular forced labor system.
+1. 19th century the situation of life under colonialism, is not very good, Because the Germans instigated a harsh and unpopular forced labor system.
 
 2. The modern-day the situation of life under colonialism is have Better quality of life.
 
